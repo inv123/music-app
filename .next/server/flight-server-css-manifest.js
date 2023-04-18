@@ -1,0 +1,18 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/Users/nedtiholov/Desktop/music-app/app/page.tsx": [
+      "/Users/nedtiholov/Desktop/music-app/node_modules/next/font/google/target.css?{\"path\":\"app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/nedtiholov/Desktop/music-app/app/page.module.css"
+    ],
+    "/Users/nedtiholov/Desktop/music-app/app/layout.tsx": [
+      "/Users/nedtiholov/Desktop/music-app/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/nedtiholov/Desktop/music-app/app/page": [
+      "/Users/nedtiholov/Desktop/music-app/app/page.module.css",
+      "/Users/nedtiholov/Desktop/music-app/node_modules/next/font/google/target.css?{\"path\":\"app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/nedtiholov/Desktop/music-app/app/globals.css"
+    ]
+  }
+}
